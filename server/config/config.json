@@ -1,26 +1,27 @@
 {
   "development": {
-    "username": "root",
-    "password": "wO7k5%HuAQvz",
-    "database": "bbmarketplace_db",
-    "host": "127.0.0.1",
+    "username": "khkt7svdf23jbdn4",
+    "password": "j3695lg1t3prl585",
+    "database": "r9wzy0fty1scszin",
+    "host": "wm63be5w8m7gs25a.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql",
     "operatorsAliases": false
   },
   "test": {
-    "username": "root",
-    "password": "wO7k5%HuAQvz",
-    "database": "database_test",
-    "host": "127.0.0.1",
+    "username": "khkt7svdf23jbdn4",
+    "password": "j3695lg1t3prl585",
+    "database": "r9wzy0fty1scszin",
+    "host": "wm63be5w8m7gs25a.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql",
     "operatorsAliases": false
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "khkt7svdf23jbdn4",
+    "password": "j3695lg1t3prl585",
+    "database": "r9wzy0fty1scszin",
+    "host": "wm63be5w8m7gs25a.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql",
-    "operatorsAliases": false
+    "operatorsAliases": false,
+    "connection": ""
   }
 }
